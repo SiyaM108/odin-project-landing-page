@@ -49,3 +49,8 @@
 .information-features {
     display: flex;
 }
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
