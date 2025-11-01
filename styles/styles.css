@@ -35,3 +35,17 @@
     background-color: #3882F6;
     color: #F9FAF8;
 }
+
+.top-nav {
+    display: flex;
+
+}
+
+.header-links {
+    display: flex;
+
+}
+
+.information-features {
+    display: flex;
+}
