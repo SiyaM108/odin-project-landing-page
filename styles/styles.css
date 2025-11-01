@@ -34,6 +34,8 @@
 .sign-up-section {
     background-color: #3882F6;
     color: #F9FAF8;
+    padding: 40px;
+    display: flex;
 }
 
 .top-nav {
@@ -53,4 +55,10 @@
 footer {
     padding: 20px;
     text-align: center;
+}
+
+.sign-up-button {
+    display: flex;
+    justify-content: center;
+
 }
