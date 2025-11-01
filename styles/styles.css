@@ -1,4 +1,4 @@
-.hero {
+.hero, footer {
     background-color: #1f2937;
 }
 
@@ -16,4 +16,11 @@
 .hero-secondary-text {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-weight: 300;
+    font-size: 36px;
 }
