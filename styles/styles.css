@@ -2,6 +2,21 @@
     background-color: #1f2937;
 }
 
+.hero-section {
+    display: flex;
+    flex-direction: row;
+    padding: 100px 50px;
+    gap: 20px;
+    color: #E5E7EB;
+}
+
+.hero-image {
+    padding: 100px 20px;
+    gap: 20px;
+    color: #E5E7EB;
+    background-color: dimgray;
+}
+
 .hero-main-text {
     font-weight: 900;
     font-size: 48px;
