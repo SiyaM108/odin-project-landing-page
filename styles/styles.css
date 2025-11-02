@@ -34,17 +34,30 @@
 .sign-up-section {
     background-color: #3882F6;
     color: #F9FAF8;
-    padding: 40px;
+    padding: 50px;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
 }
 
 .top-nav {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
 
 }
 
 .header-links {
     display: flex;
+    display: inline-block
+
+}
+
+.header-links li {
+    list-style-type: none;
+    text-decoration: none;
 
 }
 
@@ -61,4 +74,18 @@ footer {
     display: flex;
     justify-content: center;
 
+}
+
+.feature-settings {
+    flex: 1;
+    padding: 40px;
+    border:#1f2937 solid 1px;
+    margin: 40px;
+    text-align: center;
+}
+
+.feature1, .feature2, .feature3, .feature4 {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
 }
