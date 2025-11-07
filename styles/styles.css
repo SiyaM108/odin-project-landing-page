@@ -45,6 +45,9 @@
     color: #1F2937;
     font-weight: 300;
     font-size: 36px;
+    text-align: center;
+    padding: 120px 340px;
+    margin: 40px;
 }
 
 .information-header {
@@ -54,8 +57,6 @@
     text-align: center;
     margin: 40px;
 }
-
-
 
 .top-nav {
     display: flex;
@@ -79,7 +80,6 @@
 .header-links li {
     list-style-type: none;
     text-decoration: none;
-
 }
 
 .information-features {
@@ -94,14 +94,13 @@ footer {
 .sign-up-button {
     display: flex;
     justify-content: center;
-
 }
 
 .feature-settings {
     flex: 1;
     padding: 40px;
     border:#3882F6 solid 2px;
-    margin: 40px;
+    margin: 0px 40px 40px 40px;
     text-align: center;
     border-radius: 4%;
 }
