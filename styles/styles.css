@@ -101,11 +101,14 @@ footer {
     border:#3882F6 solid 2px;
     margin: 40px;
     text-align: center;
+    border-radius: 4%;
 }
 
 .feature1, .feature2, .feature3, .feature4 {
     flex: 1;
     padding: 20px;
+    width: 50px;
+    margin: 40px;
     text-align: center;
 }
 
