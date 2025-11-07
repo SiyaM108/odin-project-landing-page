@@ -121,7 +121,8 @@ footer {
     color: #F9FAF8;
     padding: 50px 400px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
     gap: 20px;
 }
