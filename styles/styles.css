@@ -119,7 +119,7 @@ footer {
 .sign-up-section {
     background-color: #3882F6;
     color: #F9FAF8;
-    padding: 50px;
+    padding: 50px 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
