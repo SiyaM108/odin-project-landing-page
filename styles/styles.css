@@ -22,7 +22,6 @@
     flex-direction: column;
     gap: 20px;
     flex: 1;
-    padding: auto;
     margin: auto;
 }
 
@@ -164,4 +163,10 @@ footer {
 .hero-container {
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.information-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
