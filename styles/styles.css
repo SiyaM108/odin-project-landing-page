@@ -134,8 +134,11 @@ footer {
 .sign-button a {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #1F2937;
+    background-color: #3882F6;
     color: #F9FAF8;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 10px;
+    border:#F9FAF8 solid 2px;
+    width: 120px;
+    text-align: center;
 }
