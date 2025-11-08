@@ -33,6 +33,7 @@
     background-color: dimgray;
     flex: 1;
     margin: auto;
+    text-align: center;
 }
 
 .hero-main-text {
