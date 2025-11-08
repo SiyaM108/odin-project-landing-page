@@ -17,11 +17,22 @@
     color: #E5E7EB;
 }
 
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex: 1;
+    padding: auto;
+    margin: auto;
+}
+
 .hero-image {
     padding: 100px 20px;
     gap: 20px;
     color: #E5E7EB;
     background-color: dimgray;
+    flex: 1;
+    margin: auto;
 }
 
 .hero-main-text {
