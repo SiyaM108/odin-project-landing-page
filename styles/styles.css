@@ -114,7 +114,7 @@ footer {
 .feature-settings {
     flex: 1;
     padding: 40px;
-    border:#3882F6 solid 2px;
+    border:hsl(217, 91%, 59%) solid 4px;
     margin: 0px 40px 40px 40px;
     text-align: center;
     border-radius: 4%;
