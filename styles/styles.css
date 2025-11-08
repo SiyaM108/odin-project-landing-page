@@ -170,3 +170,14 @@ footer {
     flex-direction: column;
     justify-content: space-around;
 }
+
+.sign-button-1 a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 120px;
+    text-align: center;
+}
